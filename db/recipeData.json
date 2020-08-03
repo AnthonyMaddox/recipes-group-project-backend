@@ -1,0 +1,9 @@
+[
+   {
+      "title": "frozen pizza",
+      "description": "a pizza you can make at home",
+      "ingredients": ["pizza", "oven"],
+      "instructions": "take pizza out of package and put in oven, set timer",
+      "picture": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" 
+   }
+]
