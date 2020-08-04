@@ -21,3 +21,7 @@ const User = new Schema({
 });
 
 Work Flow: We are using the feature branch workflow and we have separate repositories for the front-end and back-end
+
+//routes CRUD
+
+GET method will be search by title 
