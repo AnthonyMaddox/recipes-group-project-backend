@@ -24,4 +24,23 @@ Work Flow: We are using the feature branch workflow and we have separate reposit
 
 //routes CRUD
 
-GET method will be search by title 
+GET method will be search by title or cook
+query string/ maybe ingredient?
+POST create new recipe form needs:
+title:
+description: 
+instructions: 
+picture url: 
+cook: 
+
+ingredients will accept input for ingredient and amount
+
+PUT update recipe by id create new recipe 
+
+DELETE delete recipe by id
+
+
+
+PUT method
+
+heroku config:set DB_URL="mongodb+srv://cookout:cookout@cluster0.nmjhq.mongodb.net/<dbname>?retryWrites=true&w=majority"
