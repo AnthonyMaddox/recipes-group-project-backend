@@ -1,131 +1,126 @@
 [
-   {
-      "title": "Banana Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Banana",
-            "amount": "1"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
+  {
+    "title": "Banana Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "amount": "1"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Powdered Cinnamon",
+        "amount": "a pinch"
+      },
+      {
+        "ingredient": "Ice cubes",
+        "amount": "as needed"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://images.unsplash.com/photo-1568901839119-631418a3910d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "title": "Strawberry Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Strawberries",
+        "amount": "5"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Vanilla essence",
+        "amount": "1 tsp"
+      },
+      {
+        "ingredient": "Vanilla ice cream",
+        "amount": "1 scoop"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://unsplash.com/photos/rwBJaJdesGg"
+  },
+  {
+    "title": "Strawberry Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Strawberries",
+        "amount": "5"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Vanilla essence",
+        "amount": "1 tsp"
+      },
+      {
+        "ingredient": "Vanilla ice cream",
+        "amount": "1 scoop"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://unsplash.com/photos/rwBJaJdesGg"
+  },
 
-         },
-         {
-            "ingredient": "Powdered Cinnamon",
-            "amount": "a pinch"
-         },
-         {
-            "ingredient": "Ice cubes",
-            "amount": "as needed"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://images.unsplash.com/photo-1568901839119-631418a3910d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-   },
-   {
-      "title": "Strawberry Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Strawberries",
-            "amount": "5"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
+  {
+    "title": "Chocolate Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Cocoa Powder",
+        "amount": "2 tbs"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Vanilla essence",
+        "amount": "1 tsp"
+      },
+      {
+        "ingredient": "Vanilla ice cream",
+        "amount": "1 scoop"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://pixabay.com/photos/chocolate-smoothie-milkshake-1058191/"
+  },
 
-         },
-         {
-            "ingredient": "Vanilla essence",
-            "amount": "1 tsp"
-         },
-         {
-            "ingredient": "Vanilla ice cream",
-            "amount": "1 scoop"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://unsplash.com/photos/rwBJaJdesGg"
-   },
-   {
-      "title": "Strawberry Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Strawberries",
-            "amount": "5"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
-
-         },
-         {
-            "ingredient": "Vanilla essence",
-            "amount": "1 tsp"
-         },
-         {
-            "ingredient": "Vanilla ice cream",
-            "amount": "1 scoop"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://unsplash.com/photos/rwBJaJdesGg"
-   },
-
-   {
-      "title": "Chocolate Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Cocoa Powder",
-            "amount": "2 tbs"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
-
-         },
-         {
-            "ingredient": "Vanilla essence",
-            "amount": "1 tsp"
-         },
-         {
-            "ingredient": "Vanilla ice cream",
-            "amount": "1 scoop"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://pixabay.com/photos/chocolate-smoothie-milkshake-1058191/"
-   },
-
-   {
-      "title": "Mango Lassi",
-      "description": "Mango drink",
-      "ingredients": [
-         {
-            "ingredient": "Mango",
-            "amount": "1"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1/2 cup"
-
-         },
-         {
-            "ingredient": "Plain Yogurt",
-            "amount": "1 cup"
-         }, 
-         {
-            "ingredient": "Honey",
-            "amount": "1 tbsp"
-         }   
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://cdn.pixabay.com/photo/2018/12/04/16/49/mango-lassi-3856051_1280.jpg"
-   },
+  {
+    "title": "Mango Lassi",
+    "description": "Mango drink",
+    "ingredients": [
+      {
+        "ingredient": "Mango",
+        "amount": "1"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "ingredient": "Plain Yogurt",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Honey",
+        "amount": "1 tbsp"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://cdn.pixabay.com/photo/2018/12/04/16/49/mango-lassi-3856051_1280.jpg"
+  },
 
   {
     "title": "Frozen Pizza",
@@ -202,5 +197,131 @@
     ],
     "instructions": "Line the bottom of a medium sized pot w/ eggs. Fill the pot with water so that the water line is well above tallest egg. Bring the water to a boil and then let boil for ten minutes once at boiling. Remove from heat. You can place the eggs in cold water for a while to make the eggs easier to peel.",
     "picture": "https://pixabay.com/images/id-3891755/"
+  },
+  {
+    "title": "3-ingredient Easy Creme Brulee",
+    "description": "Minimal ingredient creme brulee",
+    "ingredients": [
+      {
+        "ingredient": "vanilla ice cream",
+        "amount": "1/2 cup"
+      },
+      {
+        "ingredient": "egg yolk",
+        "amount": "1"
+      },
+      {
+        "ingredient": "sugar",
+        "amount": "1 tablespoon",
+        "cook": "Naira"
+      }
+    ],
+    "instructions": "Preheat the oven to 325˚F (160˚C).Scoop the ice cream in a microwave-safe bowl. Microwave the ice cream for 30 to 40 seconds or until completely melted. Allow to cool for 5 minutes.Add the egg yolk into the melted ice cream and whisk well.",
+    "picture": "https://s3.amazonaws.com/video-api-prod/assets/b6cef91dc4844a2893e14ce9eb200b77/thumb2.jpg?resize=300:*&output-format=webp&output-quality=auto"
+  },
+  {
+    "title": "Cheesy Garlic Broccoli",
+    "description": "3-ingredient vegetable side dish",
+    "ingredients": [
+      {
+        "ingredient": "crowns broccoli",
+        "amount": "3"
+      },
+      {
+        "ingredient": "shredded cheddar cheese",
+        "amount": "1 3/4 cups"
+      },
+      {
+        "ingredient": "garlic, crushed",
+        "amount": "3 cloves"
+      }
+    ],
+    "instructions": "Preheat oven to 375ºF (190ºC). Spread out broccoli in a medium rectangular casserole dish.  Stir the garlic and cheddar cheese together in a separate bowl.",
+    "picture": "https://thatlowcarblife.com/wp-content/uploads/2018/04/low-carb-broccoli-casserole.jpg",
+    "cook": "Naira"
+  },
+  {
+    "title": "Teriyaki Chicken",
+    "description": "3-ingredient teriyaki chicken",
+    "ingredients": [
+      {
+        "ingredient": "chicken thighs, sliced into chunks",
+        "amount": "2 lb"
+      },
+      {
+        "ingredient": "soy sauce",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "brow sugar",
+        "amount": "1/2 cup"
+      }
+    ],
+    "instructions": "Sear the chicken thighs evenly in a pan, then flip. Add the soy sauce and brown sugar, stirring and bringing to a boil. Stir until the sauce has reduced and evenly glazes the chicken. Serve with rice, if desired! Enjoy!",
+    "picture": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1d47125afffa461a9711758f632306b8/BFV12484_3-IngredientDinners-FB1080SQ.jpg?resize=600:*&output-format=webp&output-quality=auto",
+    "cook": "Naira"
+  },
+  {
+    "title": "Cloud Bread",
+    "description": "3-ingredient breakfast",
+    "ingredients": [
+      {
+        "ingredient": "eggs",
+        "amount": "3"
+      },
+      {
+        "ingredient": "cream of tartar",
+        "amount": "1/8 teaspoon"
+      },
+      {
+        "ingredient": "cream cheese, softened, or greek yogurt",
+        "amount": "3 tablespoons"
+      }
+    ],
+    "instructions": "Preheat oven to 300°F (150°C). Separate the eggs into two bowls. Add the cream of tartar to the egg whites and whip into stiff peaks. Add the cream cheese or yogurt into the yolks and mix until combined. Fold half of the egg whites into the yolks until just combined. Add the rest and fold again until incorporated. Line a baking sheet with parchment paper and place six dollops of the mixture on the tray.",
+    "picture": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ee9f5904ce33444182bb12e2dce0b005/Tasty_-_Facebook_-_1080x1080.jpg?resize=600:*&output-format=webp&output-quality=auto",
+    "cook": "Naira"
+  },
+  {
+    "title": "3-ingredient Strawberry Icebox Cake",
+    "description": "3-ingredient no-bake desserts",
+    "ingredients": [
+      {
+        "ingredient": "sweetened whipped cream",
+        "amount": "5 cups"
+      },
+      {
+        "ingredient": "strawberry, chopped",
+        "amount": "3 cups"
+      },
+      {
+        "ingredient": "large rectangular graham crackers",
+        "amount": "11"
+      }
+    ],
+    "instructions": "Spread a thin layer of whipped cream in a square glass baking dish. Layer graham crackers on top, then cover with a layer of whipped cream. Sprinkle ⅓ of the strawberries on top, then layer with cream again.",
+    "picture": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b486a315a9d94a0fbcc874676880e595/BFV12524_3-IngredientNo-BakeDesserts-FB1080SQ.jpg?resize=600:*&output-format=webp&output-quality=auto",
+    "cook": "Naira"
   }
+  {
+   "title": "Cookie Butter Cake",
+   "description": "3-ingredient dessert",
+   "ingredients": [
+     {
+       "ingredient": "crunchy cookie butter",
+       "amount": "2 jars"
+     },
+     {
+       "ingredient": "sugar",
+       "amount": "1/2 cups"
+     },
+     {
+       "ingredient": "eggs",
+       "amount": "5"
+     }
+   ],
+   "instructions": "Preheat oven to 350˚F (175˚C). Empty half of Cookie Butter into a microwave safe bowl. Microwave for 50 seconds, stirring halfway. Set aside to cool while you prepare the egg mixture. In a large mixing bowl add sugar and 5 eggs. Beat with an electric mixer on high for 6 to 8 minutes, until tripled in size.",
+   "picture": "https://img.buzzfeed.com/video-api-prod/assets/98bcbe381b1e48898e8a3d60e2d3c3af/BFV5573_3-IngredientCookieButterCakes-Thumb1080SQ.jpg?resize=600:*&output-format=webp&output-quality=auto",
+   "cook": "Naira"
+ }
 ]
