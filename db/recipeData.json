@@ -1,9 +1,78 @@
 [
-   {
-      "title": "frozen pizza",
-      "description": "a pizza you can make at home",
-      "ingredients": ["pizza", "oven"],
-      "instructions": "take pizza out of package and put in oven, set timer",
-      "picture": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" 
-   }
+  {
+    "title": "Frozen Pizza",
+    "description": "A pizza you can make at home!",
+    "ingredients": [
+      {
+        "ingredient": "Pizza",
+        "amount": "1"
+      },
+      {
+        "ingredient": "Extra cheese",
+        "amount": "Half a bag"
+      }
+    ],
+    "instructions": "Preheat the oven to the designated temperature on the pizza box. Take the pizza out of package, cover it with extra cheese and put in oven. Don't forget to set the timer for the time suggested on the box.",
+    "picture": "https://pixabay.com/images/id-1239077/"
+  },
+  {
+    "title": "Coleslaw",
+    "description": "Traditional coleslaw from pre shred.",
+    "ingredients": [
+      {
+        "ingredient": "Mayo",
+        "amount": "3/4 cups"
+      },
+      {
+        "ingredient": "Sugar",
+        "amount": "2 1/2 tbs"
+      },
+      {
+        "ingredient": "Vinegar",
+        "amount": "2 1/4 tbs"
+      },
+      {
+        "ingredient": "Celery Seed",
+        "amount": "2 1/2 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "amount": "2 1/4 tbs cups"
+      },
+      {
+        "ingredient": "Pepper",
+        "amount": "1/2 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "amount": "2 1/4 tbs cups"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "amount": "2 tbs"
+      },
+      {
+        "ingredient": "Pre Shredded Cabbage (by preference)",
+        "amount": "2 Bags"
+      }
+    ],
+    "instructions": "Place the pre-shredded cabbage in a large bowl. Combine and mix all other ingredients in a smaller bowl to make the dressing. Mix the dressing into the cabbage slowly and uniformly. Chill and then serve.",
+    "picture": "https://pixabay.com/images/id-1223859/"
+  },
+  {
+    "title": "Hard Boiled Egg",
+    "description": "You're everyday hard boiled eggs.",
+    "ingredients": [
+      {
+        "ingredient": "Eggs",
+        "amount": "12 (or as many can fit on the bottom of your pot)"
+      },
+      {
+        "ingredient": "Water",
+        "amount": "Enough"
+      }
+    ],
+    "instructions": "Line the bottom of a medium sized pot w/ eggs. Fill the pot with water so that the water line is well above tallest egg. Bring the water to a boil and then let boil for ten minutes once at boiling. Remove from heat. You can place the eggs in cold water for a while to make the eggs easier to peel.",
+    "picture": "https://pixabay.com/images/id-3891755/"
+  }
 ]
