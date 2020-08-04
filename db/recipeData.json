@@ -1,131 +1,105 @@
 [
-   {
-      "title": "Banana Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Banana",
-            "amount": "1"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
+  {
+    "title": "Banana Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "amount": "1"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Powdered Cinnamon",
+        "amount": "a pinch"
+      },
+      {
+        "ingredient": "Ice cubes",
+        "amount": "as needed"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://images.unsplash.com/photo-1568901839119-631418a3910d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "cook": "Hema"
+  },
+  {
+    "title": "Strawberry Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Strawberries",
+        "amount": "5"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Vanilla essence",
+        "amount": "1 tsp"
+      },
+      {
+        "ingredient": "Vanilla ice cream",
+        "amount": "1 scoop"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://unsplash.com/photos/rwBJaJdesGg",
+    "cook": "Hema"
+  },
+  {
+    "title": "Chocolate Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Cocoa Powder",
+        "amount": "2 tbs"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Vanilla essence",
+        "amount": "1 tsp"
+      },
+      {
+        "ingredient": "Vanilla ice cream",
+        "amount": "1 scoop"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://pixabay.com/photos/chocolate-smoothie-milkshake-1058191/",
+    "cook": "Hema"
+  },
 
-         },
-         {
-            "ingredient": "Powdered Cinnamon",
-            "amount": "a pinch"
-         },
-         {
-            "ingredient": "Ice cubes",
-            "amount": "as needed"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://images.unsplash.com/photo-1568901839119-631418a3910d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-   },
-   {
-      "title": "Strawberry Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Strawberries",
-            "amount": "5"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
-
-         },
-         {
-            "ingredient": "Vanilla essence",
-            "amount": "1 tsp"
-         },
-         {
-            "ingredient": "Vanilla ice cream",
-            "amount": "1 scoop"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://unsplash.com/photos/rwBJaJdesGg"
-   },
-   {
-      "title": "Strawberry Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Strawberries",
-            "amount": "5"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
-
-         },
-         {
-            "ingredient": "Vanilla essence",
-            "amount": "1 tsp"
-         },
-         {
-            "ingredient": "Vanilla ice cream",
-            "amount": "1 scoop"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://unsplash.com/photos/rwBJaJdesGg"
-   },
-
-   {
-      "title": "Chocolate Milkshake",
-      "description": "Quick & Easy milkshake",
-      "ingredients": [
-         {
-            "ingredient": "Cocoa Powder",
-            "amount": "2 tbs"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1 cup"
-
-         },
-         {
-            "ingredient": "Vanilla essence",
-            "amount": "1 tsp"
-         },
-         {
-            "ingredient": "Vanilla ice cream",
-            "amount": "1 scoop"
-         }
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://pixabay.com/photos/chocolate-smoothie-milkshake-1058191/"
-   },
-
-   {
-      "title": "Mango Lassi",
-      "description": "Mango drink",
-      "ingredients": [
-         {
-            "ingredient": "Mango",
-            "amount": "1"
-         },
-         {
-            "ingredient": "Milk",
-            "amount": "1/2 cup"
-
-         },
-         {
-            "ingredient": "Plain Yogurt",
-            "amount": "1 cup"
-         }, 
-         {
-            "ingredient": "Honey",
-            "amount": "1 tbsp"
-         }   
-      ],
-      "instructions": "Add all the ingredients to a blender and blend until smooth",
-      "picture" : "https://cdn.pixabay.com/photo/2018/12/04/16/49/mango-lassi-3856051_1280.jpg"
-   },
+  {
+    "title": "Mango Lassi",
+    "description": "Mango drink",
+    "ingredients": [
+      {
+        "ingredient": "Mango",
+        "amount": "1"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1/2 cup"
+      },
+      {
+        "ingredient": "Plain Yogurt",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Honey",
+        "amount": "1 tbsp"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+    "picture": "https://cdn.pixabay.com/photo/2018/12/04/16/49/mango-lassi-3856051_1280.jpg",
+    "cook": "Hema"
+  },
 
   {
     "title": "Frozen Pizza",
@@ -141,7 +115,8 @@
       }
     ],
     "instructions": "Preheat the oven to the designated temperature on the pizza box. Take the pizza out of package, cover it with extra cheese and put in oven. Don't forget to set the timer for the time suggested on the box.",
-    "picture": "https://pixabay.com/images/id-1239077/"
+    "picture": "https://pixabay.com/images/id-1239077/",
+    "cook": "Anthony"
   },
   {
     "title": "Coleslaw",
@@ -185,7 +160,8 @@
       }
     ],
     "instructions": "Place the pre-shredded cabbage in a large bowl. Combine and mix all other ingredients in a smaller bowl to make the dressing. Mix the dressing into the cabbage slowly and uniformly. Chill and then serve.",
-    "picture": "https://pixabay.com/images/id-1223859/"
+    "picture": "https://pixabay.com/images/id-1223859/",
+    "cook": "Anthony"
   },
   {
     "title": "Hard Boiled Egg",
@@ -201,6 +177,7 @@
       }
     ],
     "instructions": "Line the bottom of a medium sized pot w/ eggs. Fill the pot with water so that the water line is well above tallest egg. Bring the water to a boil and then let boil for ten minutes once at boiling. Remove from heat. You can place the eggs in cold water for a while to make the eggs easier to peel.",
-    "picture": "https://pixabay.com/images/id-3891755/"
+    "picture": "https://pixabay.com/images/id-3891755/",
+    "cook": "Anthony"
   }
 ]
