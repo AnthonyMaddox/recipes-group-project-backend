@@ -1,0 +1,23 @@
+*** Proposal ***
+
+Anthony, Naira, Hema group project
+Description: We are making a recipes application that allows the user to make an account and submit their own recipes. The user will have full CRUD capability to update delete create and search through recipes.
+Models
+Recipe.js/User.js
+
+const Recipe = new Schema({
+  title: String,
+  description: String,
+  ingredients: [],
+  instructions: String,
+  picture: String,
+});
+
+const User = new Schema({
+  username: String,
+  password: String,
+  email: String,
+  recipes: [],
+});
+
+Work Flow: We are using the feature branch workflow and we have separate repositories for the front-end and back-end
