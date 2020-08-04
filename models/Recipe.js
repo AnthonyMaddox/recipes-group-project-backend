@@ -13,6 +13,7 @@ const Recipe = new Schema({
   ingredients: [Ingredient],
   instructions: String,
   picture: String,
+  cook: String
 });
 
 module.exports = mongoose.model("Recipe", Recipe);

@@ -21,57 +21,36 @@
       }
     ],
     "instructions": "Add all the ingredients to a blender and blend until smooth",
-    "picture": "https://images.unsplash.com/photo-1568901839119-631418a3910d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "title": "Strawberry Milkshake",
-    "description": "Quick & Easy milkshake",
-    "ingredients": [
-      {
-        "ingredient": "Strawberries",
-        "amount": "5"
-      },
-      {
-        "ingredient": "Milk",
-        "amount": "1 cup"
-      },
-      {
-        "ingredient": "Vanilla essence",
-        "amount": "1 tsp"
-      },
-      {
-        "ingredient": "Vanilla ice cream",
-        "amount": "1 scoop"
-      }
-    ],
-    "instructions": "Add all the ingredients to a blender and blend until smooth",
-    "picture": "https://unsplash.com/photos/rwBJaJdesGg"
-  },
-  {
-    "title": "Strawberry Milkshake",
-    "description": "Quick & Easy milkshake",
-    "ingredients": [
-      {
-        "ingredient": "Strawberries",
-        "amount": "5"
-      },
-      {
-        "ingredient": "Milk",
-        "amount": "1 cup"
-      },
-      {
-        "ingredient": "Vanilla essence",
-        "amount": "1 tsp"
-      },
-      {
-        "ingredient": "Vanilla ice cream",
-        "amount": "1 scoop"
-      }
-    ],
-    "instructions": "Add all the ingredients to a blender and blend until smooth",
-    "picture": "https://unsplash.com/photos/rwBJaJdesGg"
-  },
 
+    "picture": "https://images.unsplash.com/photo-1568901839119-631418a3910d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "cook": "Hema"
+  },
+  {
+    "title": "Strawberry Milkshake",
+    "description": "Quick & Easy milkshake",
+    "ingredients": [
+      {
+        "ingredient": "Strawberries",
+        "amount": "5"
+      },
+      {
+        "ingredient": "Milk",
+        "amount": "1 cup"
+      },
+      {
+        "ingredient": "Vanilla essence",
+        "amount": "1 tsp"
+      },
+      {
+        "ingredient": "Vanilla ice cream",
+        "amount": "1 scoop"
+      }
+    ],
+    "instructions": "Add all the ingredients to a blender and blend until smooth",
+
+    "picture": "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "cook": "Hema"
+  },
   {
     "title": "Chocolate Milkshake",
     "description": "Quick & Easy milkshake",
@@ -94,7 +73,9 @@
       }
     ],
     "instructions": "Add all the ingredients to a blender and blend until smooth",
-    "picture": "https://pixabay.com/photos/chocolate-smoothie-milkshake-1058191/"
+
+    "picture": "https://cdn.pixabay.com/photo/2015/11/23/11/54/chocolate-smoothie-1058191_960_720.jpg",
+    "cook": "Hema"
   },
 
   {
@@ -119,7 +100,8 @@
       }
     ],
     "instructions": "Add all the ingredients to a blender and blend until smooth",
-    "picture": "https://cdn.pixabay.com/photo/2018/12/04/16/49/mango-lassi-3856051_1280.jpg"
+    "picture": "https://cdn.pixabay.com/photo/2018/12/04/16/49/mango-lassi-3856051_1280.jpg",
+    "cook": "Hema"
   },
 
   {
@@ -136,7 +118,8 @@
       }
     ],
     "instructions": "Preheat the oven to the designated temperature on the pizza box. Take the pizza out of package, cover it with extra cheese and put in oven. Don't forget to set the timer for the time suggested on the box.",
-    "picture": "https://pixabay.com/images/id-1239077/"
+    "picture": "https://cdn.pixabay.com/photo/2016/03/05/21/45/pizza-1239077_960_720.jpg",
+    "cook": "Anthony"
   },
   {
     "title": "Coleslaw",
@@ -180,7 +163,8 @@
       }
     ],
     "instructions": "Place the pre-shredded cabbage in a large bowl. Combine and mix all other ingredients in a smaller bowl to make the dressing. Mix the dressing into the cabbage slowly and uniformly. Chill and then serve.",
-    "picture": "https://pixabay.com/images/id-1223859/"
+    "picture": "https://cdn.pixabay.com/photo/2016/02/26/11/07/appetizer-1223859_960_720.jpg",
+    "cook": "Anthony"
   },
   {
     "title": "Hard Boiled Egg",
@@ -212,12 +196,12 @@
       },
       {
         "ingredient": "sugar",
-        "amount": "1 tablespoon",
-        "cook": "Naira"
+        "amount": "1 tablespoon"
       }
     ],
     "instructions": "Preheat the oven to 325˚F (160˚C).Scoop the ice cream in a microwave-safe bowl. Microwave the ice cream for 30 to 40 seconds or until completely melted. Allow to cool for 5 minutes.Add the egg yolk into the melted ice cream and whisk well.",
-    "picture": "https://s3.amazonaws.com/video-api-prod/assets/b6cef91dc4844a2893e14ce9eb200b77/thumb2.jpg?resize=300:*&output-format=webp&output-quality=auto"
+    "picture": "https://s3.amazonaws.com/video-api-prod/assets/b6cef91dc4844a2893e14ce9eb200b77/thumb2.jpg?resize=300:*&output-format=webp&output-quality=auto",
+    "cook": "Naira"
   },
   {
     "title": "Cheesy Garlic Broccoli",
@@ -302,26 +286,26 @@
     "instructions": "Spread a thin layer of whipped cream in a square glass baking dish. Layer graham crackers on top, then cover with a layer of whipped cream. Sprinkle ⅓ of the strawberries on top, then layer with cream again.",
     "picture": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b486a315a9d94a0fbcc874676880e595/BFV12524_3-IngredientNo-BakeDesserts-FB1080SQ.jpg?resize=600:*&output-format=webp&output-quality=auto",
     "cook": "Naira"
-  }
+  },
   {
-   "title": "Cookie Butter Cake",
-   "description": "3-ingredient dessert",
-   "ingredients": [
-     {
-       "ingredient": "crunchy cookie butter",
-       "amount": "2 jars"
-     },
-     {
-       "ingredient": "sugar",
-       "amount": "1/2 cups"
-     },
-     {
-       "ingredient": "eggs",
-       "amount": "5"
-     }
-   ],
-   "instructions": "Preheat oven to 350˚F (175˚C). Empty half of Cookie Butter into a microwave safe bowl. Microwave for 50 seconds, stirring halfway. Set aside to cool while you prepare the egg mixture. In a large mixing bowl add sugar and 5 eggs. Beat with an electric mixer on high for 6 to 8 minutes, until tripled in size.",
-   "picture": "https://img.buzzfeed.com/video-api-prod/assets/98bcbe381b1e48898e8a3d60e2d3c3af/BFV5573_3-IngredientCookieButterCakes-Thumb1080SQ.jpg?resize=600:*&output-format=webp&output-quality=auto",
-   "cook": "Naira"
- }
+    "title": "Cookie Butter Cake",
+    "description": "3-ingredient dessert",
+    "ingredients": [
+      {
+        "ingredient": "crunchy cookie butter",
+        "amount": "2 jars"
+      },
+      {
+        "ingredient": "sugar",
+        "amount": "1/2 cups"
+      },
+      {
+        "ingredient": "eggs",
+        "amount": "5"
+      }
+    ],
+    "instructions": "Preheat oven to 350˚F (175˚C). Empty half of Cookie Butter into a microwave safe bowl. Microwave for 50 seconds, stirring halfway. Set aside to cool while you prepare the egg mixture. In a large mixing bowl add sugar and 5 eggs. Beat with an electric mixer on high for 6 to 8 minutes, until tripled in size.",
+    "picture": "https://img.buzzfeed.com/video-api-prod/assets/98bcbe381b1e48898e8a3d60e2d3c3af/BFV5573_3-IngredientCookieButterCakes-Thumb1080SQ.jpg?resize=600:*&output-format=webp&output-quality=auto",
+    "cook": "Naira"
+  }
 ]
