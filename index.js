@@ -41,8 +41,8 @@ app.get("/recipes/title/:title", (request, response) => {
 
 app.get("/recipes/search", (req, res) => {
   if (req.query.title) {
-    Recipe.find({ title: req.query.title }).then((city) => {
-      res.json(city);
+    Recipe.find({ title: req.query.title }).then((recipe) => {
+      res.json(recipe);
     });
   } else if (req.query.cook) {
     Recipe.find({ cook: req.query.cook }).then((recipe) => {
@@ -53,6 +53,41 @@ app.get("/recipes/search", (req, res) => {
       res.json(recipe);
     });
   }
+});
+
+// update
+
+app.put("/recipes/:id", (req, res) => {
+   Recipe.findOneAndUpdate({ _id: req.params.id }, req.body, { new: true }).then(
+     (recipe) => {
+       res.json(recipe);
+     }
+   );
+ });
+
+app.post("/recipes/:id/ingredients", (req, res) => {
+  Recipe.findByIdAndUpdate(
+    req.params.id,
+    { $push: { ingredients: req.body } },
+    { new: true }
+  ).then((recipe) => {
+    res.json(recipe);
+  });
+});
+app.delete("/recipes/:id/ingredients/:ingredientId", (req, res) => {
+  Recipe.findOneAndUpdate(
+    { _id: req.params.id },
+    {
+      $pull: {
+        ingredients: {
+          _id: req.params.ingredientId,
+        },
+      },
+    },
+    { new: true }
+  ).then((ingredient) => {
+    res.json(ingredient);
+  });
 });
 
 // delete
