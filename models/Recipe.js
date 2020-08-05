@@ -17,6 +17,3 @@ const Recipe = new Schema({
 });
 
 module.exports = mongoose.model("Recipe", Recipe);
-
-// need to figure out how ingredients will be entered and displayed
-  //user enters ingredients seperated by comma, then we'll use the split method to split the contents of the string at each comma using the comma seperator

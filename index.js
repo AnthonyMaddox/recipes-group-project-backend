@@ -58,12 +58,12 @@ app.get("/recipes/search", (req, res) => {
 // update
 
 app.put("/recipes/:id", (req, res) => {
-   Recipe.findOneAndUpdate({ _id: req.params.id }, req.body, { new: true }).then(
-     (recipe) => {
-       res.json(recipe);
-     }
-   );
- });
+  Recipe.findOneAndUpdate({ _id: req.params.id }, req.body, { new: true }).then(
+    (recipe) => {
+      res.json(recipe);
+    }
+  );
+});
 
 app.post("/recipes/:id/ingredients", (req, res) => {
   Recipe.findByIdAndUpdate(
