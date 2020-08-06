@@ -62,7 +62,6 @@ router.post('/signup', (req, res) => {
 })
 
 /* create a method to handle post requests to create a token when a user logs in. It will:
-
 Receive sign-up form input (email and password) from the browser
 Query the database for that user
 Verify the password sent from the browser matches the password in the database
