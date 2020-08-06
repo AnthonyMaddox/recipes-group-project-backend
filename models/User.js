@@ -6,7 +6,6 @@ const User = new Schema({
   username: String,
   password: String,
   email: String,
-  recipes: [],
 });
 
 module.exports = mongoose.model("User", User);
