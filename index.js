@@ -1,5 +1,7 @@
 const app = require("express")();
 const Recipe = require("./models/Recipe");
+const cors = require("cors");
+app.use(cors());
 const bodyParser = require("body-parser");
 app.use(bodyParser.json());
 
