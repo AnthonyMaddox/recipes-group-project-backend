@@ -44,19 +44,18 @@ router.post('/signup', (req, res) => {
                     token: token
                   })
                 } else {
-                  
                   res.sendStatus(401) 
                 }
               })
           } else {
             console.log("Email already exists")
-            res.sendStatus(401) 
-           
+            res.status(401).json({
+              message: 'Email already exists'
+            }); 
           }
         })
     } else {
-      res.sendStatus(401) 
-     
+      res.sendStatus(401)  
     }
 
 })
