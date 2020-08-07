@@ -1,6 +1,6 @@
 # **Coder Cook-Off API**
 
-##### This is a JSON API with full CRUD functionality that allows users to access a database of recipes as well as search for a recipe by title or cook. This is a group project created by Anthony Maddox, Hema and Naira for the Software Engineering Immersive Program at General Assembly.
+##### This is a JSON API with full CRUD functionality that allows users to access a database of recipes as well as search for a recipe by title or cook. This is a group project created by Anthony Maddox, Hema Omprakash and Naira Reyes for the Software Engineering Immersive Program at General Assembly.
 
 ## Features:
 
@@ -79,11 +79,13 @@
 
 #### POST New Ingredient Method _endpoint:_
 
+> ###### /recipe/:id/ingredients
+
 ##### Example Requests:
 
 ###### /recipes/5f29a06a7afbf200047df4dd/ingredients
 
-### DELETE 
+### DELETE
 
 #### DELETE Method _endpoint:_
 
@@ -97,8 +99,12 @@
 
 #### Credits:
 
-##### Authors: 
+##### Authors:
+
 ###### Anthony Maddox: https://github.com/AnthonyMaddox
+
 ###### Naira Reyes: https://github.com/naireyes
+
 ###### Hema Omprakash: https://github.com/hemao
-###### All knowledge was gained under the study of Noah Clark and Allison Johnson at General Assembly. 
+
+> ###### All knowledge was gained under the study of Noah Clark and Allison Johnson at General Assembly.
