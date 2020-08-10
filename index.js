@@ -6,12 +6,11 @@ app.use(cors());
 const bodyParser = require("body-parser");
 app.use(bodyParser.json());
 
-
 //build passport
-const passport = require('./config/passport')()
-const userController = require('./controllers/users.js')
-app.use(passport.initialize())
-app.use('/users', userController)
+const passport = require("./config/passport")();
+const userController = require("./controllers/users.js");
+app.use(passport.initialize());
+app.use("/users", userController);
 //
 
 //create
@@ -25,6 +24,11 @@ app.post("/recipes", (req, res) => {
 });
 
 //read
+app.get("/users", (req, res) => {
+   User.find({}).then((users) => {
+     res.json(users);
+   });
+ });
 
 app.get("/", (req, res) => {
   Recipe.find({}).then(() => {
